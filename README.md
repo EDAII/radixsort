@@ -1,4 +1,4 @@
-# Lista 2 - Quicksort e Insertion Sort
+# Lista 3 - RadixSort
 
 | Nome                       | Matrícula  |
 |----------------------------|------------|
@@ -7,7 +7,7 @@
 
 ## Contexto
 
-O código presentes nesse repositório foi elaborado com o intuito de demonstrar de maneira gráfica a relação entre o número de elementos ordenados e o tempo gasto para ordená-los utilizando o algoritmo de ordenação Radix sort com o estável Counting sort.
+O código presentes nesse repositório foi elaborado com o intuito de demonstrar de maneira gráfica a relação entre o número de elementos ordenados e o tempo gasto para ordená-los utilizando o algoritmo de ordenação Radixsort com o estável Countingsort.
 
 ## Executando
 
